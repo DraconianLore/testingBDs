@@ -1,6 +1,6 @@
 {
-    "user": "development",
-    "password": "development",
+    "user": "knex_user",
+    "password": "knexFTW",
     "database": "test_db",
     "hostname": "localhost",
     "port": 5432,
